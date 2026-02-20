@@ -1,0 +1,13 @@
+date;description;value;type;category
+01/01/2025;Salário;3500;entrada;renda
+10/01/2025;Aluguel;-1200.00;saida;moradia
+15/01/2025;Supermercado;-R$ 540;saida;alimentação
+20/01/2025;Investimento;;saida;financeiro
+25/01/2025;Academia;-100;SAIDA;saude
+01/02/2025;Salario;3.500;entrada;renda
+10/02/2025;Aluguel;-1200;saida;moradia
+10/02/2025;Aluguel;-1200;saida;moradia
+15/02/2025;Restaurante;-200.50;saída;Lazer
+20/02/2025;Uber;-45;saida;
+28/02/2025;Reembolso;150;entrda;outros
+30/02/2025;Gasolina;-250;saida;transporte

@@ -1,0 +1,49 @@
+2025-12-30 10:05:03,637 - INFO - generated new fontManager
+2025-12-30 10:05:04,093 - INFO - Carregando dados brutos
+2025-12-30 10:06:49,655 - INFO - Carregando dados brutos
+2025-12-30 10:09:54,440 - INFO - Carregando dados brutos
+2025-12-30 10:14:23,541 - INFO - Carregando dados brutos
+2025-12-30 10:16:57,017 - INFO - Carregando dados brutos
+2025-12-30 10:16:57,040 - INFO - Colunas detectadas: ['date;description;value;type;category']
+2025-12-30 10:22:28,539 - INFO - Carregando dados brutos
+2025-12-30 10:22:28,551 - INFO - Colunas detectadas: ['date;description;value;type;category']
+2025-12-30 10:25:38,410 - INFO - Iniciando pipeline de limpeza
+2025-12-30 10:25:38,411 - INFO - Carregando dados brutos
+2025-12-30 10:25:38,427 - INFO - Colunas brutas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:25:38,429 - INFO - Colunas normalizadas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:25:38,439 - WARNING - 1 datas inválidas encontradas
+2025-12-30 10:25:38,445 - WARNING - 2 valores inválidos encontrados
+2025-12-30 10:25:38,453 - WARNING - 3 linhas removidas por dados críticos ausentes
+2025-12-30 10:25:38,471 - INFO - Dados limpos salvos em data/processed/transactions_clean.csv
+2025-12-30 10:27:55,985 - INFO - Iniciando pipeline de limpeza
+2025-12-30 10:27:55,986 - INFO - Carregando dados brutos
+2025-12-30 10:27:56,025 - INFO - Colunas brutas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:27:56,028 - INFO - Colunas normalizadas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:27:56,038 - WARNING - 1 datas inválidas encontradas
+2025-12-30 10:27:56,040 - WARNING - 2 valores inválidos encontrados
+2025-12-30 10:27:56,048 - WARNING - 3 linhas removidas por dados críticos ausentes
+2025-12-30 10:27:56,059 - INFO - Dados limpos salvos em C:\Users\Vitor.penhorato\OneDrive - Transportes Della Volpe\Documentos\analisador-financeiro\data\processed\transactions_clean.csv
+2025-12-30 10:29:38,686 - INFO - Iniciando pipeline de limpeza
+2025-12-30 10:29:38,686 - INFO - Carregando dados brutos
+2025-12-30 10:29:38,700 - INFO - Colunas brutas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:29:38,702 - INFO - Colunas normalizadas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:29:38,714 - WARNING - 1 datas inválidas encontradas
+2025-12-30 10:29:38,718 - WARNING - 1 valores inválidos encontrados
+2025-12-30 10:29:38,724 - WARNING - 2 linhas removidas por dados críticos ausentes
+2025-12-30 10:29:38,737 - INFO - Dados limpos salvos em C:\Users\Vitor.penhorato\OneDrive - Transportes Della Volpe\Documentos\analisador-financeiro\data\processed\transactions_clean.csv
+2025-12-30 10:45:50,507 - INFO - Iniciando pipeline de limpeza
+2025-12-30 10:45:50,508 - INFO - Carregando dados brutos
+2025-12-30 10:45:50,542 - INFO - Colunas brutas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:45:50,545 - INFO - Colunas normalizadas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:45:50,564 - WARNING - 1 datas inválidas encontradas
+2025-12-30 10:45:50,574 - WARNING - 1 valores inválidos encontrados
+2025-12-30 10:45:50,591 - WARNING - 2 linhas removidas por dados críticos ausentes
+2025-12-30 10:45:50,613 - INFO - Dados limpos salvos em C:\Users\Vitor.penhorato\OneDrive - Transportes Della Volpe\Documentos\analisador-financeiro\data\processed\transactions_clean.csv
+2025-12-30 10:54:46,686 - INFO - Iniciando pipeline de limpeza
+2025-12-30 10:54:46,687 - INFO - Carregando dados brutos
+2025-12-30 10:54:46,700 - INFO - Colunas brutas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:54:46,701 - INFO - Colunas normalizadas: ['date', 'description', 'value', 'type', 'category']
+2025-12-30 10:54:46,708 - WARNING - 1 datas inválidas encontradas
+2025-12-30 10:54:46,711 - WARNING - 1 valores inválidos encontrados
+2025-12-30 10:54:46,717 - WARNING - 2 linhas removidas por dados críticos ausentes
+2025-12-30 10:54:46,732 - INFO - Dados limpos salvos em C:\Users\Vitor.penhorato\OneDrive - Transportes Della Volpe\Documentos\analisador-financeiro\data\processed\transactions_clean.csv

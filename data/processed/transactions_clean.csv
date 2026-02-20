@@ -1,0 +1,11 @@
+date,description,value,type,category
+2025-01-01,Salário,3500.0,entrada,renda
+2025-01-10,Aluguel,-1200.0,saida,moradia
+2025-01-15,Supermercado,-540.0,saida,alimentação
+2025-01-25,Academia,-100.0,saida,saude
+2025-02-01,Salario,3.5,entrada,renda
+2025-02-10,Aluguel,-1200.0,saida,moradia
+2025-02-10,Aluguel,-1200.0,saida,moradia
+2025-02-15,Restaurante,-200.5,saida,Lazer
+2025-02-20,Uber,-45.0,saida,outros
+2025-02-28,Reembolso,150.0,entrada,outros
